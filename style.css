@@ -1,0 +1,13 @@
+.div {
+    margin: 10px ;
+    background-color: rgb(34, 233, 84);
+    border: 10px solid rgb(5, 15, 6);
+    width: 400px;
+    height: 400px; 
+    padding: 50px; 
+    box-sizing: border-box; 
+    margin-right: 80px;
+}
+.para{
+    color:red;
+}
